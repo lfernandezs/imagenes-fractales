@@ -29,5 +29,11 @@ F F[+F]F  # Cómo se reemplazan las variables
 ```
 ### Ejecución
 ```
-python3 <reglas>.sl <número_de_iteraciones> <ruta_imagen>.svg 
+python3 imagenes_fractales.py <reglas>.sl <número_de_iteraciones> <ruta_imagen>.svg 
 ```
+Ejemplo
+```
+python3 imagenes_fractales.py reglas/copo_de_nieve.sl 3 copo_de_nieve.svg
+```
+![Copo de nieve](https://github.com/lfernandezs/Imagenes-Fractales/blob/master/fractales/copo_de_nieve.svg)
+
