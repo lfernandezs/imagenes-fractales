@@ -35,5 +35,5 @@ Ejemplo
 ```
 python3 imagenes_fractales.py reglas/copo_de_nieve.sl 3 copo_de_nieve.svg
 ```
-![Copo de nieve](https://github.com/lfernandezs/Imagenes-Fractales/blob/master/fractales/copo_de_nieve.svg)
-
+  
+<img src="https://github.com/lfernandezs/Imagenes-Fractales/blob/master/fractales/copo_de_nieve.svg" alt="Copo de nieve" width="200"/>
