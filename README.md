@@ -1,5 +1,5 @@
 # Imagenes Fractales
-Se modelan imágenes fractales utilizando en sistema de Lindenmayer
+Se modelan imágenes fractales utilizando el sistema de Lindenmayer
 
 ## Sistemas-L
 Los sistemas de Lindenmayer o sistemas-L, son definidos por un conjunto G = {V, S, ω, P).
@@ -29,7 +29,7 @@ F F[+F]F  # Cómo se reemplazan las variables
 ```
 ### Ejecución
 ```
-python3 imagenes_fractales.py <reglas>.sl <número_de_iteraciones> <ruta_imagen>.svg 
+python3 imagenes_fractales.py <ruta_reglas>.sl <número_de_iteraciones> <ruta_imagen>.svg 
 ```
 Ejemplo
 ```
