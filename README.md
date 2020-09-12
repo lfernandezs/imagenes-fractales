@@ -19,6 +19,7 @@ Los posibles movimientos son:
 * |: rotación antihorario 90 grados.
 * [: Se apila una nueva pluma.
 * ]: Se desapila la pluma del tope.
+* Colores: b, p, y, l.
 
 
 Dentro de un archivo <reglas>.sl se definen las reglas del sistema. Por ejemplo, en arbol.sl:
