@@ -13,7 +13,7 @@ Los sistemas de Lindenmayer o sistemas-L, son definidos por un conjunto G = {V, 
 
 Los posibles movimientos son:
 * F ó G: hacia adelante (pluma abajo).
-* f ó g: hacia adelante (plua arriba).
+* f ó g: hacia adelante (pluma arriba).
 * +: rotación horario.
 * -: rotación antihorario.
 * |: rotación antihorario 90 grados.
@@ -29,7 +29,7 @@ F F[+F]F  # Cómo se reemplazan las variables
 ```
 ### Ejecución
 ```
-python3 imagenes_fractales.py <ruta_reglas>.sl <número_de_iteraciones> <ruta_imagen>.svg 
+python3 imagenes_fractales.py <path_reglas>.sl <número_de_iteraciones> <path_imagen>.svg 
 ```
 Ejemplo
 ```
