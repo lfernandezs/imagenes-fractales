@@ -1,4 +1,4 @@
-# Imagenes Fractales
+# Imágenes Fractales
 Se modelan imágenes fractales utilizando el sistema de Lindenmayer
 
 ## Sistemas-L
